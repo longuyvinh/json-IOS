@@ -1,5 +1,5 @@
 # json-IOS
-connnect Json with ios
+connnect Json with ios by Alamofire 
 
 Step 1: install cocoapods
 sudo gem install cocoapods
